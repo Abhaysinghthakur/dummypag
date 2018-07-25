@@ -1,3 +1,4 @@
+{}{}
 
 let infoOfEpisode = (seasonNum = 0 ,episodeNum = 0) =>{
 	for(episode of jsonData._embedded.episodes){
