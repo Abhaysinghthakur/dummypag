@@ -1,0 +1,7 @@
+In this question I have made 3 function as the assignment asked but first I ask user which function to run.
+
+function 1(infoOfEpisode): which takes input season no. and episode no. to take out episode detail by just comparing both in the given data set 
+
+function 2(infoOfMultipleEpisodes):which takes ids of multiple episode to give out deatils of that episodes. this too is done by just comparison of episode ids. here I have used REST and SPREAD even when simple array was sufficient,just to grab the concept more.
+
+function 3(infoByName):This takes episode name as input to give out episode detail. I have used toLowerCase() in string to even compare strings which are same but have case different
